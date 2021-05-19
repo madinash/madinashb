@@ -13,8 +13,8 @@
        </style>
  </head><body style="background:grey; margin: 4px;">
 
-   <div style="background-color: white">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeittjp16URuJ2pCevZ5Fg-AI_vRuL1NbMw&amp;usqp=CAU" width="200" height="272" class="leftpic">
+   <div style="background-color: #456360 ">
+   <img src="https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png" width="200" height="272" class="leftpic">
    	
    	<h4>First name: Madina</h4> 
    	<h4>Last name: Shakeeva</h4> 
