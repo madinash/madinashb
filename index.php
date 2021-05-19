@@ -14,7 +14,7 @@
  </head><body style="background:grey; margin: 4px;">
 
    <div style="background-color: #456360 ">
-   <img src="https://www.nicepng.com/png/full/136-1366211_group-of-10-guys-login-user-icon-png.png" width="200" height="272" class="leftpic">
+   <img src="https://www.nicepng.com/png/full/136-1366211_group-of-10-guys-login-user-icon-png.png" width="200" height="200" class="leftpic">
    	
    	<h4>First name: Madina</h4> 
    	<h4>Last name: Shakeeva</h4> 
