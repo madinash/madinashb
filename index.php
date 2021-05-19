@@ -1,14 +1,7 @@
 
-<!DOCTYPE html>
 
 
-<html><head>
-  <link rel="stylesheet" href="style.css">
-    <title class="d">Madinas profile</title>
-    <style>
-        .leftpic {
-         float: left; 
-         margin: 1 1 6px 6px; 
+</body></html>
         }
        </style>
  </head><body style="background:grey; margin: 4px;">
