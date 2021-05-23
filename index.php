@@ -23,7 +23,8 @@
 	<h4>Status: Student</h4>
    	<a href="http://alatoo.edu.kg/" target="_blank" style="color: black">  University: IAAU </a>
    
-   	<h4>Faculty: Software computer system engeneering automated system</h4>
+   	<h4>Faculty: Software of computer facilities and automated systems
+</h4>
    
     
 
